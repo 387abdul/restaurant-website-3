@@ -1,0 +1,88 @@
+const products = [
+    {
+      id: 1,
+      image:
+        "https://www.kfcpakistan.com/images/b438e990-bc23-11ee-be0d-ed0e61ce8a3a-Untitleddesign(5)-min_variant_0-2024-01-26082002.png",
+      name: "Boneless Strips",
+      price: 270,
+      description: "3 Chicken strips for a hassle free boneless experience.",
+    },
+    {
+      id: 2,
+      image:"https://www.kfcpakistan.com/images/19b05560-bc56-11ee-97d6-7187fd7553de-Zingeratha_variant_0-2024-01-26142047.png",
+      name: "Zingeratha",
+      price: 350,
+      description: "Tender boneless strips, sliced onions, tangy imli chutney, mint mayo, wrapped in a soft paratha",
+    },
+    {
+      id: 3,
+      image:"https://www.kfcpakistan.com/images/b0c33f70-bc52-11ee-b144-5b816f8c83f0-Riceandspice_variant_0-2024-01-26135623.png",
+      name: "Rice & Spice",
+      price: 350,
+      description: "Spiced and buttery rice with 6 pcs of Hot Shots topped with our signature Vietnamese sauce",
+    },
+    {
+      id: 4,
+      image:"https://www.kfcpakistan.com/images/3fda5fc0-c1c8-11ee-88d6-317ad09e56fd-Chicken-Strips_variant_0-2024-02-02124030.png",
+      name: "Boneless Strips",
+      price: 370,
+      description: "3 Chicken strips for a hassle free boneless experience",
+    },
+    {
+      id: 5,
+      image:"https://www.kfcpakistan.com/images/337af8e0-0461-11ee-a89a-612c84c58a93-twister_variant_0-2023-06-06115641.png",
+      name: "Twister",
+      price: 400,
+      description: "Tender boneless strips, black pepper mayo, diced tomatoes and lettuce- wrapped in a tortilla",
+    },
+    {
+      id: 6,
+      image:"https://www.kfcpakistan.com/images/43aa4970-ffaa-11ed-9c55-3705f003c528-3pc-Chikcen_variant_0-2023-05-31115706.png",
+      name: "3 Pcs Chicken",
+      price: 620,
+      description: "3 pieces of Hot and Crispy Fried Chicken",
+    },
+    {
+      id: 7,
+      image:"https://www.kfcpakistan.com/images/43a9fb50-ffaa-11ed-8180-812e571998fe-krunch+drink-2023-05-31115706.png",
+      name: "Krunch Burger + Drink",
+      price: 370,
+      description: "1 Krunch burger + 1 Regular drink",
+    },
+    {
+      id: 8,
+      image:"https://www.kfcpakistan.com/images/43a9fb50-ffaa-11ed-8180-812e571998fe-crunch-with-fries-and-drink-2023-05-31115706.png",
+      name: "Krunch Combo",
+      price: 520,
+      description: "1 Krunch burger + 1 Regular fries + 1 Regular drink",
+    },
+    {
+      id: 9,
+      image:"https://www.kfcpakistan.com/images/43a98620-ffaa-11ed-b6b3-6970cc1cd666-krunch-with-combo-2023-05-31115706.png",
+      name: "Krunch Chicken Combo",
+      price: 530,
+      description: "1 Krunch burger + 1 pc of Hot and Crispy Fried Chicken + 1 Regular drink",
+    },
+    {
+      id: 10,
+      image:"https://www.kfcpakistan.com/images/43a9fb50-ffaa-11ed-8180-812e571998fe-chicken-n-chips-2023-05-31115706.png",
+      name: "Chicken & Chips",
+      price: 550,
+      description: "2 pieces of Hot and Crispy Fried Chicken+ Fries + Dinner roll+ signature Vietnamese Sauce",
+    },
+    {
+      id: 11,
+      image:"https://www.kfcpakistan.com/images/43a9fb50-ffaa-11ed-8180-812e571998fe-twister-combo-2023-05-31115706.png",
+      name: "Twister Combo",
+      price: 670,
+      description: "Twister + 1 Regular fries + 1 Regular drink",
+    },
+    {
+      id: 12,
+      image:"https://www.kfcpakistan.com/images/43aa4970-ffaa-11ed-9c55-3705f003c528-XtremeDuoBox-2023-05-31115706.png",
+      name: "Xtreme Duo Box",
+      price: 1450,
+      description: "The irresistible combo of 2 Signature Zingers + 2 pcs Hot & Crispy Chicken + 1 Large fries",
+    },
+  ];
+  
